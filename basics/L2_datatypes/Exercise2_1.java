@@ -8,9 +8,6 @@ class Exercise2_1{
         System.out.println("Whole Alligators are "+ "$"+ Allitwo);
         System.out.println("I only have "+ Alli + " Left in stock");
        
-        String name = "Secretary Bird" + ", Cardinal" + ", Blue Jay";
-
-        System.out.println(name);
 
         }
     }
