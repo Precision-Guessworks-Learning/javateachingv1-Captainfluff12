@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package basics.L2_datatypes;
 class Exercise2_1{
     public static void main(String[] args){
         System.out.println("Hello world");
